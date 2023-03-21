@@ -34,5 +34,3 @@ Uber Eats Clone React Native
 
 ### APIs
 - Stripe payment
-
-[App Screenshots](https://drive.google.com/drive/folders/1_jXotkoNh1xo7wvloR7lxCVTjq9RXYpV?usp=sharing)
